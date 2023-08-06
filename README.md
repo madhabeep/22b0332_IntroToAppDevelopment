@@ -1,4 +1,8 @@
 # my_tracker
+1. a loading screen for loading time
+2. the expense will be printed in a different color depending on whether it is gained or lost
+3. the user will be prompted to add his budget when he logs in
+4. He can also change his budget by double tapping on the total budget widgets
 
 A new Flutter project.
 
